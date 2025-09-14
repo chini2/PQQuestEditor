@@ -25,7 +25,7 @@ Incluye un modo **antibombas** para evitar crashes corrigiendo valores fuera de 
 
 - Windows 10/11
 - .NET **8** SDK (o .NET 9) con workloads de **Windows Desktop**
-
+- PQSAVE https://github.com/Thealexbarney/PqSave
 ---
 
 ## Uso
